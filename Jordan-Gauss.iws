@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="934cb6a9-85ac-4d01-9d1e-8d1b9eb48ff1" name="Default Changelist" comment="" />
+    <list default="true" id="934cb6a9-85ac-4d01-9d1e-8d1b9eb48ff1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Jordan-Gauss.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/Jordan-Gauss.ipr" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +32,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Metodo-de-Jordan" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubProjectSettings">
     <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
